@@ -1,4 +1,4 @@
-console.log("I caused a catwastrophic merge conflict and failed miserbally (>.<)");
+console.log("I caused a catwastrophic merge and failed miserbally (>.<)");
 
 const sum = (a, b) => a + b;
 
